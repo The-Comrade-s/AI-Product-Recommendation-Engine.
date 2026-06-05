@@ -1,0 +1,13 @@
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1
+scipy==1.12.0
+plotly==5.20.0
+matplotlib==3.8.3
+Pillow==10.2.0
+requests==2.31.0
+nltk==3.8.1
+textblob==0.18.0
+faker==24.3.0
+streamlit-extras==0.4.2
